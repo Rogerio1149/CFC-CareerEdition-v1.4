@@ -36,6 +36,7 @@ public class PlaybookDefense {
         else if (playbook == 3) playBook3();
         else if (playbook == 4) playBook4();
         else if (playbook == 5) playBook5();
+        else if (playbook == 6) playBook6();
         else playBook1();
     }
 
